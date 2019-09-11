@@ -1,1 +1,2 @@
-# veritabani-kullanimi
+# Java JDBC ile Veritabanı Kullanımı
+
